@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name d -not -named | wc -l
